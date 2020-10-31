@@ -13,7 +13,7 @@ Online shopping website made using php.
   
 ## Backend
 
-  * php
+  * Php
   
 ## Contributing
 
